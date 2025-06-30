@@ -9,13 +9,17 @@ openai
 claude
 Anthropic
 
-视频
-混剪
-图片
+video
+picture
+audio
+photo
+llm
 +AI
 +ai
-+开源
++opensource
++Opensource
 
-香港
-移民
-!广告
+github
+Github
++ai
++AI
